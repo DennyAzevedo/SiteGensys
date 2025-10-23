@@ -7,7 +7,7 @@ Criação de um **Site Corporativo**.
 
 Autores: **Marilene Esquiavoni** & **Denny Paulista Azevedo Filho**
 
-![Tela Principal](https://md.dev.br/img/sisweb/TelaPrincipalSiteGensys.png)
+![Tela Principal](https://mdcursos.dev.br/img/sisweb/TelaPrincipalSiteGensys.png)
 
 _Estes códigos estão sobre a licença_ **MIT**
 
